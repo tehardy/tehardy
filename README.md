@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**tehardy/tehardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vilan (18 y.o) ! 😎
 
-Here are some ideas to get you started:
+I want to fly into IT and work in a big company 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📗 I'm currently learning:
+<br><br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+👆 The list will be updated in the future.
+
+![tehardy's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=tehardy)
+
+If you want to ask something, please contact 😉
+<br><br>
+[<img src="https://img.shields.io/badge/Telegram-%40tehardyez-blue">](https://t.me/tehardyez)
+![](https://dcbadge.vercel.app/api/shield/377798130403508225?style=flat&theme=clean&compact=true)
