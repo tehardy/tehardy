@@ -2,7 +2,7 @@
 
 I'm Vilan (18 y.o) ! 😎
 
-I want to fly into IT and work in a big company 🚀
+Tomorrow is my day of study 🚀
 
 📗 I'm currently learning:
 <br><br>
