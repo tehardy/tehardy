@@ -15,5 +15,5 @@ Tomorrow is my day of study 🚀
 
 If you want to ask something, please contact 😉
 <br><br>
-[<img src="https://img.shields.io/badge/Telegram-%40tehardy-blue">](https://t.me/trayhardy)
+[<img src="https://img.shields.io/badge/Telegram-%40tehardy-blue">](https://t.me/trhlord)
 ![](https://dcbadge.vercel.app/api/shield/377798130403508225?style=flat&theme=clean&compact=true)
